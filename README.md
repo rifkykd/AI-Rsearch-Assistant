@@ -58,7 +58,8 @@ AI Answer: Elon Musk has founded Zip2, X.com (later PayPal), SpaceX, Tesla, Neur
 
 📸 **Demo**
 
-
+![Alt text](1.png)
+![Alt text](2.png)
 
 📌 **Future Improvements**
 
